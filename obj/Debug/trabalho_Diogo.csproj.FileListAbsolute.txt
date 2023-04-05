@@ -1,0 +1,8 @@
+C:\C#\trabalho_Diogo\bin\Debug\trabalho_Diogo.exe.config
+C:\C#\trabalho_Diogo\bin\Debug\trabalho_Diogo.exe
+C:\C#\trabalho_Diogo\bin\Debug\trabalho_Diogo.pdb
+C:\C#\trabalho_Diogo\obj\Debug\trabalho_Diogo.csproj.AssemblyReference.cache
+C:\C#\trabalho_Diogo\obj\Debug\trabalho_Diogo.csproj.SuggestedBindingRedirects.cache
+C:\C#\trabalho_Diogo\obj\Debug\trabalho_Diogo.csproj.CoreCompileInputs.cache
+C:\C#\trabalho_Diogo\obj\Debug\trabalho_Diogo.exe
+C:\C#\trabalho_Diogo\obj\Debug\trabalho_Diogo.pdb
